@@ -1,0 +1,10 @@
+langchain
+langchain-community
+google_generativeai
+python_dotenv
+chromadb
+pandas 
+numpy 
+scikit-learn
+langchain-text-splitters
+wikipedia-api
