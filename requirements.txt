@@ -8,3 +8,11 @@ numpy
 scikit-learn
 langchain-text-splitters
 wikipedia-api
+Pypdf2
+python-certifi-win32 
+beautiflsoup4
+streamlit
+ollama
+langchain-chroma
+angchain_google_genai
+faiss-cpu
