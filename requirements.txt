@@ -14,5 +14,5 @@ beautiflsoup4
 streamlit
 ollama
 langchain-chroma
-angchain_google_genai
+langchain_google_genai
 faiss-cpu
