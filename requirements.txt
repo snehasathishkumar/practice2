@@ -16,3 +16,4 @@ ollama
 langchain-chroma
 langchain_google_genai
 faiss-cpu
+transformers
