@@ -5,9 +5,9 @@ from rouge import Rouge
 # and uses the ROUGE metric to evaluate the quality of the summary text compared to the reference text.
 # The function uses the rouge library to compute the ROUGE scores and returns the F1 score of the ROUGE-1 metric.
 def evaluate_rouge(reference_text, summary_text):
-rouge = Rouge()
-scores = rouge.get_scores(reference_text, summary_text)
-return scores[0]['rouge-1']['f']
+    rouge = Rouge()
+    scores = rouge.get_scores(reference_text, summary_text)
+    return scores[0]['rouge-1']['f']
 
 # the following is a human generated summary
 reference_summary = '''
